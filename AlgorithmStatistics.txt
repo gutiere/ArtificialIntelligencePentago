@@ -1,0 +1,34 @@
+Edgardo Gutierrez
+TCSS 435
+3/13/16
+
+Minmax Algorithm:
+
+	Time Complexity: O(b^m) 
+
+	Space Complexity: O(m)
+
+	Depth Level: 2
+		Nodes Expanded: 72081
+
+	Depth Level: 3
+		Nodes Expanded:21934080
+
+	Depth level: 5
+		Nodes Expanded: N/A (Takes too long, it’s huge)
+		
+
+Minmax with Alpha-Beta Pruning: 
+
+	Time Complexity: O(n^(m/2)) 
+
+	Space Complexity: O(n^(m/2))
+
+	Depth Level: 2
+		Nodes Expanded:578
+
+	Depth Level: 3
+		Nodes Expanded:995
+
+	Depth level: 5
+		Nodes Expanded:1565

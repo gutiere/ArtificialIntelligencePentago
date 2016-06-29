@@ -1,0 +1,30 @@
+Edgardo Gutierrez
+TCSS 435
+3/13/16
+
+Pentago Instructions:
+
+1) Navigate to the location of the source code in your terminal or command prompt
+2) Type: “python Main.py”
+3) Enter a desired name when prompted by the program.
+4) Enter ‘Y’ or ’N’ when prompted to play auto mode. This mode will play for you with random movements. If you decide to play in auto mode, the game will be done in a matter of sends and you will not need to follow steps 6 and beyond.
+5) Enter ‘b’ or ‘w’ to indicate what color you would like to play as.
+6) Enter your move in the following format: “[Q1][Forward Slash][Position][Space][Q2][Direction]”
+	Key:
+		[Q1] = 1, 2, 3, 4	(This will be the quadrant you place your piece in.)
+		[Q2] = 1, 2, 3, 4	(This will be the quadrant you rotate)
+		[Position] = 1, 2, 3, 4, 5, 6, 7, 8, 9		(This will be the position you place a piece)
+		[Direction] = ‘l’, ‘r’, ‘L’, ‘R’	(This will be the direction your rotate a quadrant)
+		[Forward Slash] = ‘/‘
+		[Space] = ‘ ‘
+	Notes:
+		- Quadrant 1:		Top left
+		- Quadrant 2: 	Top right
+		- Quadrant 3: 	Bottom left
+		- Quadrant 4: 	Bottom right
+		- Positions in a quadrant:
+						1 2 3
+						4 5 6 
+						7 8 9
+7) Repeat step 6 until the game is over.
+8) Enjoy!
